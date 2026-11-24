@@ -1,0 +1,17 @@
+# Open Source Games
+
+> A curated, community-maintained list of open-source games across browser, desktop and mobile platforms. Any genre, any platform, any engine.
+
+## Key facts
+- Catalog: open-source games organized into Browser-Based, Desktop and Mobile sections.
+- Categories include arcade, FPS, RPG, MMORPG, strategy, racing, sandbox, puzzle/card/board, clicker, programming and more.
+- Each entry links to source code; many include a playable demo.
+- Contributions: open an issue or send a pull request on the upstream repository.
+- License: MIT.
+- Upstream repository: https://github.com/201flaviosilva/Open-Source-Games
+- Live page: https://vip-4.github.io/Open-Source-Games/
+
+## Documentation
+- Home: https://vip-4.github.io/Open-Source-Games/
+- FAQ: https://vip-4.github.io/Open-Source-Games/#faq
+- Machine-readable summary: https://vip-4.github.io/Open-Source-Games/llms.txt
